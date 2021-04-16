@@ -1,0 +1,23 @@
+{
+  "name": "ajs-homework3.nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariy-mvs/ajs-homework3.nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dariy-mvs/ajs-homework3.nodejs/issues"
+  },
+  "homepage": "https://github.com/dariy-mvs/ajs-homework3.nodejs#readme",
+  "dependencies": {
+    "@dariy-mvs/ajs-homework3": "^1.0.0"
+  }
+}
